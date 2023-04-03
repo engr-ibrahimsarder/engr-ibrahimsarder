@@ -6,7 +6,7 @@
 
 I am a front-end web developer. I love to use my creativity and make something new. That's why I love to work with React.js. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back-end smoothly.
 
-Skills:  MONGODB/NODE.JS/ FIREBASE/REACT / JS / CSS/TAILWIND/BOOTSTRAP/HTML
+Skills:  MONGODB / NODE.JS / FIREBASE / REACT / JS / C / CSS/ TAILWIND / BOOTSTRAP /HTML.
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning react 
