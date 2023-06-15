@@ -1,15 +1,15 @@
-![Web Developer and Designer](https://media-exp1.licdn.com/dms/image/C4D16AQFVsMxJkc8MjQ/profile-displaybackgroundimage-shrink_350_1400/0/1654697348102?e=1665014400&v=beta&t=ER72iCroYzGo-QFhqEg2TyVREUwy8ttn2OGz3xWtxi4)
+
 
 # Hi there 👋, I'm Ibrahim Sarder
 #### Web Developer and Designer
 
 
-I am a front-end web developer. I love to use my creativity and make something new. That's why I love to work with React.js. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back-end smoothly.
+I am a MERN STACK DEVELOPER. I love to use my creativity and make something new. That's why I love to work with React.js. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back end smoothly.
 
-Skills:  MONGODB / NODE.JS / FIREBASE / REACT / JS / C / CSS/ TAILWIND / BOOTSTRAP /HTML.
+Skills: JavaScript / React.js / Node.js / Express.js / MongoDB / C / C++
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently learning to react.js 
 - 💬 Ask me about web development 
 
 
