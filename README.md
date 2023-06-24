@@ -4,7 +4,7 @@
 #### Web Developer and Designer
 
 
-I am a MERN STACK DEVELOPER. I love to use my creativity and make something new. That's why I love to work with React.js. Over the last year, I gather knowledge in various parts of web development by myself. My ultimate goal is to become an awesome full-stack web developer who can make beautiful UIs and also can handle the back end smoothly.
+I am an enthusiastic JavaScript developer with knowing some frameworks for the Front-end and the Back-end. I know Basic MongoDB but basically a MERN stack developer. I always focus on learning new technology. I wish to work in a progressive organization and contribute to the development of the organization with my hard work skill and dedication so on. Take a look at my work or get in touch!
 
 Skills: JavaScript / React.js / Node.js / Express.js / MongoDB / C / C++
 
