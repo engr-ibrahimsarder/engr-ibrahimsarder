@@ -17,7 +17,6 @@ Skills: JavaScript / React.js / Node.js / Express.js / MongoDB / C / C++
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='20' height='20'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='20' height='20'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='20' height='20'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimsarder96)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsarder96)](https://github.com/anuraghazra/github-readme-stats)
 
