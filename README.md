@@ -5,7 +5,7 @@
 
 
 I am an enthusiastic JavaScript developer with knowing some frameworks for the Front-end and the Back-end. I know Basic MongoDB but basically a MERN stack developer. I always focus on learning new technology. I wish to work in a progressive organization and contribute to the development of the organization with my hard work skill and dedication so on. Take a look at my work or get in touch!
-https://raw.githubusercontent.com/IbrahimSam96/IbrahimSam96/master/gif3.gif
+
 Skills: JavaScript / React.js / Node.js / Express.js / MongoDB / C / C++
 
 - 🔭 I’m currently working on this page. 
