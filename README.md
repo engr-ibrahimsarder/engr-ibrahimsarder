@@ -1,15 +1,14 @@
-<image width="100%" height="500"  src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"></image>
 <h1 align="center">Hi 👋, I'm Ibrahim Sarder</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <image width="400px" height="300" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></image>
 
 - 🔭 I’m currently working on **Web Developer Trainer**
 
-- 🌱 I’m currently learning **DSA, Web Development etc**
+- 🌱 I’m currently learning **Web Development etc**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eng-ibrahim.vercel.app/](https://portfolio-eng-ibrahim.vercel.app/)
 
-- 💬 Ask me about **Html, CSS, Bootstrap5, Tailwind, Shadcn, C, C++, JavaScript, Python, React, Next.js, MongoDB, Node.JS and Express.JS, SQL, Mongoose.**
+- 💬 Ask me about **Html, CSS, Bootstrap5, Tailwind, Shadcn, Ant Design, C, C++, JavaScript, TypeScript, OOP, DSA, React, Next.js, MongoDB, MySql, SQL, and Node.JS, Express.JS, Mongoose.**
 
 - 📫 How to reach me **er.ibrahimsarder@gamil.com**
 
