@@ -2,9 +2,11 @@
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 <image width="400px" height="300" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></image>
 
-- 🔭 I’m currently working on **Web Developer Trainer**
+- 🔭 I’m currently working on **Frontend Web Developer**
 
-- 🌱 I’m currently learning **Web Development etc**
+- - 🔭 Prvious working on **Web Developer Trainer**
+
+- 🌱 I’m currently learning **DevOps | AI & Data Science etc**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-eng-ibrahim.vercel.app/](https://portfolio-eng-ibrahim.vercel.app/)
 
@@ -12,7 +14,10 @@
 
 - 📫 How to reach me **er.ibrahimsarder@gamil.com**
 
+- 🧠 Lifelong learner | 💬 Community contributor | 🧪 Experimenter at heart
+
 - ⚡ Fun fact **I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
