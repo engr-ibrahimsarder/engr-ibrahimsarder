@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Sarder</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">Curious & Passionate Software Developer</h3>
 <image width="400px" height="300" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></image>
 
 - 🔭 I’m currently working on **Frontend Web Developer**
 
-- - 🔭 Prvious working on **Web Developer Trainer**
+- 🧑‍🏫 I'm a Web Developer Trainer,
 
 - 🌱 I’m currently learning **DevOps | AI & Data Science etc**
 
